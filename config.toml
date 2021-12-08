@@ -1,0 +1,6 @@
+baseURL = 'https://maikehenrique.github.io/smartarduino.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'contrast-hugo'
+[permalinks]
+    posts = '/:filename/'

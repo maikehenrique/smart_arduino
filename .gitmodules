@@ -1,0 +1,6 @@
+[submodule "main"]
+	path = main
+	url = https://github.com/maikehenrique/smartarduino.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/maikehenrique/smartarduino.github.io.git
